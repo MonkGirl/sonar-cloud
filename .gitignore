@@ -34,5 +34,8 @@ build/
 ### VS Code ###
 .vscode/
 
+### rebel ###
+/src/main/resources/rebel.xml
+
 ### Mac OS ###
 .DS_Store
